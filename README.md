@@ -49,7 +49,7 @@ Saya memiliki ketertarikan di bidang Artificial Intelegence dan Mobile Apps, nam
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-coderx&hide_border=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rizalfadiaalfikri&hide_border=false" />
 </details>
  
 <details>	
@@ -57,7 +57,7 @@ Saya memiliki ketertarikan di bidang Artificial Intelegence dan Mobile Apps, nam
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> ASUS X441UV (AMD A6)</li>
+	    <li><b>Laptop: </b> ASUS X441UV</li>
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Terminal: </b> Command Promp</li>
 	    <li><b>Code Editor's:</b> VSCode, Sublime Text, Notepad++</li>
